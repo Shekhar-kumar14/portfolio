@@ -157,12 +157,12 @@
             flex-wrap: wrap;
             
         }
-        #Skills{
+        #skills{
             background-color:white ;
             min-height: 100vh;
     padding-top: 40px;   /* navbar overlap fix */
     position: relative;
-    z-index: 10;
+    z-index: 999;
         }
         .skill-img{
             padding: 30px 10px;
