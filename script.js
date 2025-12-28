@@ -21,7 +21,7 @@ gsap.from(".first-container", {
 gsap.from(".skill-img", {
     opacity: 1,
     y: 30,
-    stagger: 0.3,
+    stagger: 0.2,
     duration: 0.8,
     ease: "power2.out",
     scrollTrigger: {
