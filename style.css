@@ -174,38 +174,38 @@
             margin: 15px;
         }
         #html:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(224, 62, 3, 0.945);
         }
             #css:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(3, 84, 224, 0.945);
         }
             #js:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(224, 194, 3, 0.945);
         }
             #react:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(3, 205, 224, 0.945);
         }
             #gsap:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(3, 224, 62, 0.945);
         }
             #bootstrap:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(135, 3, 224, 0.945);
         }
             #wordpress:hover{
             box-shadow: 0 15px 30px black;
         }
         #Mysql:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(3, 110, 224, 0.945);
         }
         #Php:hover{
-            transform: scale(1.08) translateY(-5px);
+            transform: scale(1.08) translateY(30px);
             box-shadow: 0 15px 30px rgba(3, 91, 224, 0.945);
         }
         .skill-img img{
