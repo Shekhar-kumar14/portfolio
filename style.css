@@ -334,13 +334,13 @@
     text-decoration: underline;
 }
 .work-text{
-    overflow: hidden;
+    overflow: visible;
     transition: max-height 0.5s ease;
 }
 
 /* default short */
 .work-text.collapsed{
-    max-height: 280px; /* jitna preview chahiye */
+    max-height: 380px; /* jitna preview chahiye */
 }
 
 /* full text */
@@ -701,10 +701,4 @@
         font-size: 34px;
         letter-spacing: 2px;
     }
-
-       .work-text{
-    overflow: visible;   /* UL/LI cut nahi honge */
-    transition: max-height 0.5s ease;
-}
-
 }
