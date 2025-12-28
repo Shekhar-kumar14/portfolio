@@ -19,14 +19,14 @@ gsap.from(".first-container", {
 
 /* SKILLS */
 gsap.from(".skill-img", {
-    opacity: 0,
+    opacity: 1,
     y: 30,
     stagger: 0.3,
     duration: 0.8,
     ease: "power2.out",
     scrollTrigger: {
         trigger: "#skills",
-        start: "top 75%",
+        start: "top 80%",
     }
 });
 
